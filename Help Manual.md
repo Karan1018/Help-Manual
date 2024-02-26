@@ -75,8 +75,10 @@ To access the e-Jagriti platform and its benefits, users must complete a straigh
 
 Click on the **“Main Dashboard”**.
 ![alt text](<CC 1 (Main DashBoard).png>)
+
 A user clicks on the tab- **“Register”** in the top right-hand corner.
 ![alt text](<CC 2 Register.png>)
+
 Fill the details in the form below
 ![alt text](<CC 3 Registration Form.png>)
 By filling in all the above details correctly, your account will be registered.
@@ -113,11 +115,13 @@ Select **“Case Category”**
 
 Fill in the **“Complaint and Respondent”** details as shown below
 ![alt text](<Figma 4 Complaint and Respodant Details(1).png>)
+
 Click on **“Next”**
 ![alt text](<Figma 4 Complaint and Respodant Details(2).png>)
 
 Fill in the **“Additional Complainant”** as shown below
 ![alt text](<CC 9 Additional Complaint.png>)
+
 Click on **“Next”**
 ![alt text](<Figma 5 "Additional Details" (2) .png>)
 
@@ -129,6 +133,7 @@ A user will upload the **“Case Documents”** as shown below
 
 Before **“Final Submission and Checkout”** the user can Preview as below
 ![alt text](<CC 12 Preview Doc.png>)
+
 Click on **"Preview"**
 ![alt text](<Preview 2.png>)
 
@@ -204,12 +209,16 @@ The Commission will select the case which need to be scrutinised
 The Commission will check check the “Case Details, Complaint/Respondent, Additional Complaint, Additional Respondent, Document Upload” as shown below
 Click on **“Next”**
 ![alt text](<Commission of Case Files.png>)
+
 Click on **“Next”**
 ![alt text](<Commision of Complain-Respodant.png>)
+
 Click on **“Next”**
 ![alt text](<Figma 8 Addition Complaint Commission.png>)
+
 Click on **“Next”**
 ![alt text](<Figma 9 Additional Respondent Commission.png>)
+
 Click on **“Next”**
 ![alt text](<Commission of Document-Upload.png>)
 
@@ -230,6 +239,7 @@ Select **“Reverted Cases”**
 
 Select **“View Review Remarks”**
 ![alt text](<View Review Remarks.png>)
+
 Display of **"Review Remarks"**
 ![alt text](<View Review Remarks 2.png>)
 
@@ -274,6 +284,8 @@ Select **“Approve”**
 
 Select **“Approve”** Again
 ![alt text](<Figma 13 Approve Commission.png>)
+
+**"Case Ref Number"**
 ![alt text](<Figma 14 Case Approved Commission.png>)
 
 ## Reply/Rejoinder/Hearing <a name="reply-rejoinder-hearing"></a>
@@ -309,6 +321,7 @@ Select **“Reply"**
 
 Reply with the **"Mandatory Documents"** as shown below
 ![alt text](<Reply with Mandatory Doc.png>)
+
 **“Submitted Successfully”**
 ![alt text](<Reply Submitted Success.png>)
 
@@ -317,6 +330,7 @@ Select **“Rejoinder”**
 
 Rejoinder Reply with the **"Mandatory Documents"** as shown below
 ![alt text](<Rejoinder Submitted Success.png>)
+
 **“Submitted Successfully”**
 ![alt text](<Rejoin Success.png>)
 
@@ -328,6 +342,7 @@ Subsequent filing within the e-Jagriti system entails submitting further documen
 
 Select **“View Details /Response”**
 ![alt text](<Subsequent 1.png>)
+
 View **“Subsequent File”**
 ![alt text](<Subsequent 2.png>)
 
@@ -352,6 +367,7 @@ Need to Upload the **"Daily Proceeding"** as below
 
 Once the order details are submitted, the Judge will be able to upload Judgement details under the section **”Judgement Upload”** as below
 ![alt text](<CC 33 Judegmental.png>)
+
 Select **“Action”** Required
 ![alt text](<Proceeding Judgement.png>)
 
@@ -407,6 +423,7 @@ Select **“View Notes”** which has been created for the hearing
 
 Select on **“View Details”** regarding the case
 ![alt text](<Judge View Details.png>)
+
 Preview of the **“Case Details”**
 ![alt text](<Judge view details.png>)
 
@@ -415,16 +432,15 @@ To join the Hearing Select **“Cam-Corder Icon”**
 
 Put **“Case Number and Date of Hearing”** to start virtual hearing
 ![alt text](<Figma to join video call.png>)
+
 The **“Virtual Meeting”** view
 ![alt text](<Figma Video call screen.png>)
 
 To view the **“Old Hearing Recording”** Select Cam-Corder Icon
 ![alt text](<Old Hearing Recording Select Cam-Corder Icon.png>)
+
 **“Recording View”**
 ![alt text](<Figma Video Recording.png>)
 
 
 
-
-
-[predective-judgement]: #predictive-judgements
